@@ -4,7 +4,7 @@ How to Add Any Product Infromation in Firebase
 
 # Image
 
-<img src="https://user-images.githubusercontent.com/73787635/132305527-c6e20c10-ccb1-4e4d-890e-92e0396d6f28.jpeg" height = 400, width = 350/>
+<img src="https://user-images.githubusercontent.com/73787635/132305527-c6e20c10-ccb1-4e4d-890e-92e0396d6f28.jpeg" height = 400, width = 280/>
 
 ## Getting Started
 
